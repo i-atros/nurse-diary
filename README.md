@@ -13,7 +13,6 @@ Develop a digital companion targeted to nurses. The digital tool should let them
 
 - Use Flutter to implement your solution
 - No requirement about the target, you can decide whether to support app, web, desktop or all of them
-- You could use a tool like https://app.quicktype.io/ to save time to generate the models
 
 ## Endpoints
 There are a couple of endpoints to help getting started with the development.
