@@ -3,11 +3,13 @@ Develop a digital companion targeted to nurses. The digital tool should let them
 
 # Requirements
 
-- Nurses should be able to see the tasks for the day, past and future tasks
-- It is possible to distinguish visually `current`, `past` and `future` tasks
+- Nurses should be able to see the tasks for the target day, tasks prior to that date and later than that date**
+- It is possible to distinguish visually the tasks
 - Nurses should be able to mark tasks as completed*
 
 *For simplicity, this can be performed in-memory.
+**For the target date you can consider August 23rd, which is the `deadline` field of the task
+
 
 ## Technical Details
 
