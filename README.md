@@ -8,6 +8,7 @@ Develop a digital companion targeted to nurses. The digital tool should let them
 - Nurses should be able to mark tasks as completed*
 
 *For simplicity, this can be performed in-memory.
+
 **For the target date you can consider August 23rd, which is the `deadline` field of the task
 
 
